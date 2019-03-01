@@ -16,7 +16,7 @@ class AppointmentController {
 			date
 		});
 
-		return res.redirect("/app/dashboard");
+		return res.redirect("/app/schedule");
 	}
 }
 
